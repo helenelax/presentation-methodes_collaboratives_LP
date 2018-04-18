@@ -34,15 +34,15 @@ S'il ne fallait retenir que 5 choses ce seraient...
 
 +++
 
-![L'institut](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1637&y=579&a=true&file=01_BatimentSupAgro.jpg&t=hj9oBcnzBahEfQZ&scalingup=0)
+![L'institut](http://www.lamerguez.com/Presentations_Gitpitch/presentation-methodes_collaboratives_LP/01_BatimentSupAgro.jpg)
 
 +++
 
-![Le Rochefort](https://ncloud.zaclys.com/index.php/s/Xuj5Y4ZkrEbC5mc/download)
+![Le Rochefort](http://www.lamerguez.com/Presentations_Gitpitch/presentation-methodes_collaboratives_LP/02_Rochefort.jpg)
 
 +++
 
-![repas de l'équipe](https://ncloud.zaclys.com/index.php/s/pv0Hq973fxItzzE/download)
+![repas de l'équipe](http://www.lamerguez.com/Presentations_Gitpitch/presentation-methodes_collaboratives_LP/03_Repas_Equipe.jpg)
 
 ---
 
@@ -125,18 +125,18 @@ S'il ne fallait retenir que 5 choses ce seraient...
 
 +++
 
-![Un TP à l'intérieur](https://ncloud.zaclys.com/index.php/s/LVA2ckC66B59ipr/download)
+![Un TP à l'intérieur](http://www.lamerguez.com/Presentations_Gitpitch/presentation-methodes_collaboratives_LP/04_Travaux_groupe_TP.jpg)
 
 +++
 
-![Travaux sur table](https://ncloud.zaclys.com/index.php/s/2NZAOm4huqgVSIf/download)
+![Travaux sur table](http://www.lamerguez.com/Presentations_Gitpitch/presentation-methodes_collaboratives_LP/05_Travaux_Groupe_Table_Dehors.jpg)
 
 +++
-![Travaux de groupe sur la pelouse](https://ncloud.zaclys.com/index.php/s/IPG0dHGNwzzfzxI/download)
+![Travaux de groupe sur la pelouse](http://www.lamerguez.com/Presentations_Gitpitch/presentation-methodes_collaboratives_LP/06_Travaux_Groupe_Pelouse.jpg)
 
 +++
 
-![Travaux sur le terrain](https://ncloud.zaclys.com/index.php/s/8B3ywhEVyEs5dD7/download)
+![Travaux sur le terrain](http://www.lamerguez.com/Presentations_Gitpitch/presentation-methodes_collaboratives_LP/07_Travaux_Groupe_Terrain.jpg)
 
 +++
 ## Ce qui aide : mettre en place un environnement favorable
